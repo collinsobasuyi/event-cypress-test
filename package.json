@@ -1,0 +1,26 @@
+{
+  "name": "event-cypress-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "e2e:start": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collinsobasuyi/event-cypress-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/collinsobasuyi/event-cypress-test/issues"
+  },
+  "homepage": "https://github.com/collinsobasuyi/event-cypress-test#readme",
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
